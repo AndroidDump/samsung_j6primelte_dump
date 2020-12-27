@@ -1,0 +1,6 @@
+5
+Amazon_Shopping.apk
+Dailyhunt.apk
+SamsungPayStub.apk
+instagram-stub_33-1-8.apk
+messenger-stub_33-1-8.apk

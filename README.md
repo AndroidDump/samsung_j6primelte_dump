@@ -1,0 +1,13 @@
+# j6primeltedd-user 10 QP1A.190711.020 J610FXXU5CTI1 release-keys
+- manufacturer: 
+- platform: msm8937
+- codename: j6primelte
+- flavor: j6primeltedd-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: J610FXXU5CTI1
+- tags: release-keys
+- fingerprint: samsung/j6primeltedd/j6primelte:10/QP1A.190711.020/J610FXXU5CTI1:user/release-keys
+- brand: samsung
+- branch: j6primeltedd-user-10-QP1A.190711.020-J610FXXU5CTI1-release-keys
+- repo: samsung_j6primelte_dump
